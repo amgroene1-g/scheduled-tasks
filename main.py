@@ -1,8 +1,8 @@
 import os
 import requests
-#from dotenv import load_dotenv
+from dotenv import load_dotenv
 
-#load_dotenv()  # loads variables from .env into the environment
+load_dotenv()  # loads variables from .env into the environment
 
 parameters = {
     "lat":51.435517,
